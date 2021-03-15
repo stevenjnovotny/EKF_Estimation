@@ -173,15 +173,15 @@ The following shows an estimated standard deviation that accurately captures the
 The EKF GPS Update is implemented in the function `UpdateFromGPS()`. The update is accomplished as shown below:
 
 <p align="center">
-<img src="images/GPSUpdate_1.png" width="100"/>
+<img src="images/GPSupdate_1.png" width="100"/>
 </p>
 
 <p align="center">
-<img src="images/GPSUpdate_2.png" width="120"/>
+<img src="images/GPSupdate_2.png" width="120"/>
 </p>
 
 <p align="center">
-<img src="images/GPSUpdate_3.png" width="250"/>
+<img src="images/GPSupdate_3.png" width="250"/>
 </p>
 
 The results are shown below. The simulation completed with an estimated position error of < 1 m.
